@@ -1,0 +1,31 @@
+.App {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#AboutMe, #Portfolio, #Contact, #Resume {
+  height: 100vh;
+  padding-top: 5rem;
+}
+
+#Portfolio p {
+  margin: 0;
+}
+
+#Portfolio .col-12 {
+  margin-bottom: 3rem;
+}
+
+.Form {
+  margin: 15vh auto;
+  max-width: 50vw
+}
+
+#Resume img {
+  height: 200px;
+  margin: auto;
+  display: block;
+  margin-bottom: 4rem;
+}
