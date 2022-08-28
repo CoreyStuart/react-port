@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.d30077af.css",
+    "main.js": "/react-port/static/js/main.17f3ee9e.js",
+    "static/js/787.510e8dec.chunk.js": "/react-port/static/js/787.510e8dec.chunk.js",
+    "static/media/coming-soon.jpg": "/react-port/static/media/coming-soon.de2b6a0b2ce4746fd87a.jpg",
+    "static/media/background.jpg": "/react-port/static/media/background.b8d3f28adc9a07023665.jpg",
+    "static/media/css.png": "/react-port/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/html.png": "/react-port/static/media/html.23784160d848f734c302.png",
+    "static/media/Corey.jpg": "/react-port/static/media/Corey.b4d24700a92b87507165.jpg",
+    "static/media/javascript.png": "/react-port/static/media/javascript.7f8751632b42a9932c15.png",
+    "index.html": "/react-port/index.html",
+    "main.d30077af.css.map": "/react-port/static/css/main.d30077af.css.map",
+    "main.17f3ee9e.js.map": "/react-port/static/js/main.17f3ee9e.js.map",
+    "787.510e8dec.chunk.js.map": "/react-port/static/js/787.510e8dec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30077af.css",
+    "static/js/main.17f3ee9e.js"
+  ]
+}
