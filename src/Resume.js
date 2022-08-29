@@ -22,22 +22,22 @@ function Resume() {
 
                 <Row className="mt-5">
                     <Col xs="12" sm="6" md="4">
-                        <Image className="" fluid src={node} alt="node js" />
+                        <Image fluid src={node} alt="node js" />
                     </Col>
                     <Col xs="12" sm="6" md="4">
-                        <Image className="" fluid src={react} alt="react js" />
+                        <Image fluid src={react} alt="react js" />
                     </Col>
                     <Col xs="12" sm="6" md="4">
-                        <Image className="" fluid src={mysql} alt="mysql" />
+                        <Image fluid src={mysql} alt="mysql" />
                     </Col>
                     <Col xs="12" sm="6" md="4">
-                        <Image className="" fluid src={html} alt="html" />
+                        <Image fluid src={html} alt="html" />
                     </Col>
                     <Col xs="12" sm="6" md="4">
-                        <Image className="" fluid src={css} alt="css" />
+                        <Image fluid src={css} alt="css" />
                     </Col>
                     <Col xs="12" sm="6" md="4">
-                        <Image className="" fluid src={javascript} alt="javascript" />
+                        <Image fluid src={javascript} alt="javascript" />
                     </Col>
                 </Row>
             </Container>
