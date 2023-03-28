@@ -29,3 +29,18 @@
   display: block;
   margin-bottom: 4rem;
 }
+
+#Contact h1 {
+  margin-top: 150px;
+}
+
+#cmform {
+  margin-top: -40px;
+}
+
+#img5 {
+  height: 227px;
+  margin: auto;
+  display: block;
+  width:max-content
+}

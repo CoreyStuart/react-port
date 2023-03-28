@@ -3,12 +3,13 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image'
 
-import ComingSoon from './coming-soon.jpg'
-import RandomPassword from './assets/RandomPassword'
-import TestYourKnowledge from './assets/TestYourKnowledge'
-import DayPlanner from './assets/DayPlanner'
-import READMEGenerator from './assets/README-Generator'
-import Database from './assets/Database'
+
+import RandomPassword from './assets/RandomPassword.png'
+import TestYourKnowledge from './assets/TestYourKnowledge.png'
+import DayPlanner from './assets/DayPlanner.png'
+import READMEGenerator from './assets/README-Generator.png'
+import Database from './assets/Database.png'
+import FeedbackApp from './assets/feedback-app.png'
 
 function Portfolio() {
     return (
@@ -40,16 +41,16 @@ function Portfolio() {
                     <p>Github Repo: <a href="https://github.com/CoreyStuart/Node-README-Creation">https://github.com/CoreyStuart/Node-README-Creation</a></p>
                 </Col>
                 <Col xs="12" sm="6" md="4">
-                    <Image className="" fluid src={Database} alt="coming soon" />
+                    <Image id="img5" className="" fluid src={Database} alt="coming soon" />
                     <h3 className="mt-3">Project 5</h3>
                     <p>link: Backend, GIF in README</p>
                     <p>Github Repo: <a href="https://github.com/CoreyStuart/Company-Database">https://github.com/CoreyStuart/Company-Database</a></p>
                 </Col>
                 <Col xs="12" sm="6" md="4">
-                    <Image className="" fluid src={ComingSoon} alt="coming soon" />
+                    <Image className="" fluid src={FeedbackApp} alt="coming soon" />
                     <h3 className="mt-3">Project 6</h3>
                     <p>link: </p>
-                    <p>Github Repo: </p>
+                    <p>Github Repo: <a href="https://github.com/CoreyStuart/FeedbackApp">https://github.com/CoreyStuart/FeedbackApp</a></p>
                 </Col>
             </Row>
         </Container>

@@ -22,7 +22,7 @@ function Contact() {
         <Container id="Contact">
             <h1>Contact Me</h1>
 
-            <Form className="Form">
+            <Form id="cmfrom" className="Form">
                 <Form.Group className="mb-3" controlId="formName">
                     <Form.Label>Name</Form.Label>
                     <Form.Control required placeholder="ex. John Doe" />
