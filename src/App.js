@@ -22,7 +22,7 @@ function App() {
       </section>
       <footer>
         <p className="d-inline mx-5 pb-3">Github: <a href="https://github.com/CoreyStuart">github.com/CoreyStuart</a></p>
-        <p className="d-inline mx-5 pb-3">LinkedIn: <a href="https://github.com/CoreyStuart">github.com/CoreyStuart</a></p>
+        <p className="d-inline mx-5 pb-3">LinkedIn: <a href="https://www.linkedin.com/in/corey-stuart-4b3727237/">github.com/CoreyStuart</a></p>
         <p className="d-inline mx-5 pb-3">Twitter: <a href="https://twitter.com/c_stu21">twitter.com/c_stu21</a></p>
       </footer>
     </div>
